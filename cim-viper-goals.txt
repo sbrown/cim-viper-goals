@@ -21,7 +21,7 @@ This is really about collaborating and honoring commitments. Say what you’re g
 
 Improve the way we work
 -	Be transparent 
--	Continually look for the simplest process that could possibly work 
+-	Continually look for the simplest process that gets the job done 
 -	Be open to change - we  can’t get better without it
 -	Optimize the impact of your work 
 -	Take ownership and be a creative problem solver 
